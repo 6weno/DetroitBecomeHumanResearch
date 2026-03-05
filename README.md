@@ -6,8 +6,10 @@ A simple but multiple reseach about Detroit:Become Human,with varies of analytic
 本项目旨在深度剖析现象级电影互动游戏《Detroit: Become Human》，通过多维度的数据分析手段，探讨影视类游戏的现状与未来发展趋势。
 核心围绕游戏的**历史价格、日活数据、用户评价、销量及用户画像**等维度展开可视化分析，并尝试通过机器学习预测游戏日活趋势。
 
-##文档说明
-
+## 文档说明
+Detroit--所有使用的数据集
+report.ipynb--数据处理与分析代码，图像统计分析
+steam_review.py--爬虫代码，使用steam官方插件爬取评论数据
 
 ## 数据来源
 | 分析维度 | 数据来源 | 说明 |
