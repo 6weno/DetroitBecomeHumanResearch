@@ -7,9 +7,11 @@ A simple but multiple reseach about Detroit:Become Human,with varies of analytic
 核心围绕游戏的**历史价格、日活数据、用户评价、销量及用户画像**等维度展开可视化分析，并尝试通过机器学习预测评价的认同度。
 
 ## 文档说明
--Detroit--所有使用的数据集
--report.ipynb--数据处理与分析代码，图像统计分析
--steam_review.py--爬虫代码，使用steam官方插件爬取评论数据
+Detroit--所有使用的数据集
+
+report.ipynb--数据处理与分析代码，图像统计分析
+
+steam_review.py--爬虫代码，使用steam官方插件爬取评论数据
 
 ## 数据来源
 | 分析维度 | 数据来源 | 说明 |
